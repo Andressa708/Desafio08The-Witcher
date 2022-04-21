@@ -19,14 +19,24 @@ body{
 .container-menu{
     text-align: center;
     
+    
 }
+
 /**AQui chamo class container do ul/li container-menu-list/*/
 .container-menu-list li{
     display: inline-block;
     /*Distancia+*/
     margin-left: 8vw;
     color: white;
+    margin-top: 0vw;
+    
    
 }
 
-
+/*Div para trazer imagem para esquedar*/
+header div{
+    width: 30%;
+    display: inline-block;
+    margin-left:8vw;
+    align-items: center;
+  }

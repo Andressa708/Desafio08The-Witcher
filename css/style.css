@@ -11,7 +11,7 @@ body{
 }
 /*Aqui chamo class container do header*/
 .container{
-    max-width: 1360px;
+    
     width:100%;
     margin: auto;
 }
@@ -26,12 +26,23 @@ body{
 .container-menu-list li{
     display: inline-block;
     /*Distancia+*/
-    margin-left: 8vw;
+    margin-left: 6vw;
     color: white;
     margin-top: 0vw;
     
    
 }
+
+/*Estilizar h2*/
+li h2{
+    margin-left: 2vw;
+}
+
+li h3{
+    margin-left:15vw;
+}
+
+
 
 /*Div para trazer imagem para esquedar*/
 header div{
@@ -40,3 +51,17 @@ header div{
     margin-left:8vw;
     align-items: center;
   }
+
+ /*Centralizar a imagem do kavil2*/ 
+ figure {
+    background-image: url('C:\Users\andre\Desktop\Desafio08The Witcher\img\kavil2.png.png"peg');
+    display: inline-block;
+    margin-left:80vh;
+    width: 10vh;
+    height: 10vh;
+ }
+
+figure img{
+    width: 345px;
+}
+

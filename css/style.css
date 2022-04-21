@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    
+    background-image: url(https://pbs.twimg.com/media/FQ5DM8MWYAImHhT?format=jpg&name=large);
+    
+}
+/*Aqui chamo class container do header*/
+.container{
+    max-width: 1360px;
+    width:100%;
+    margin: auto;
+}
+/*Aqui chamo class container do nav menu*/
+.container-menu{
+    text-align: center;
+    
+}
+/**AQui chamo class container do ul/li container-menu-list/*/
+.container-menu-list li{
+    display: inline-block;
+    /*Distancia+*/
+    margin-left: 8vw;
+    color: white;
+   
+}
+
+

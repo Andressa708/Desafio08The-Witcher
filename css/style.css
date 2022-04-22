@@ -65,3 +65,20 @@ figure img{
     width: 345px;
 }
 
+
+.imagem-de-caixa{
+    width: 100px;
+    height: 100px;
+    background-image: url(https://pbs.twimg.com/media/FQ6V2DiWQAI-nFO?format=png&name=small);
+    margin-left: 8vw;
+}
+.imagem{
+    margin: left 500px;
+}
+
+.botao{
+     margin-left:500px;
+     margin-top: center;
+     width: 10px;
+     height: 10px;
+}

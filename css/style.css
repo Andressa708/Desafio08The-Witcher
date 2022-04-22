@@ -54,7 +54,7 @@ header div{
 
  /*Centralizar a imagem do kavil2*/ 
  figure {
-    background-image: url('C:\Users\andre\Desktop\Desafio08The Witcher\img\kavil2.png.png"peg');
+    background-image: url('https://cdn-sharing.adobecc.com/content/storage/id/urn:aaid:sc:US:3e5bdfff-8c40-42c0-8fd9-125ed8881d4e;revision=0?component_id=7a8c854a-a5c6-4f77-bb53-8c7f1154222c&api_key=CometServer1&access_token=1650595620_urn%3Aaaid%3Asc%3AUS%3A3e5bdfff-8c40-42c0-8fd9-125ed8881d4e%3Bpublic_7c776e09c7105f56ac5b3952dc0ddfc948040074');
     display: inline-block;
     margin-left:80vh;
     width: 10vh;
